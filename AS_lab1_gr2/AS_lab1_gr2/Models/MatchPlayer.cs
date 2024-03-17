@@ -1,0 +1,22 @@
+﻿namespace AS_lab1_gr2.Models
+{
+    public class MatchPlayer
+    {
+        public int Id { get; set; }
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
+
+        // 0..1 *
+        public virtual ICollection<MatchEvent>? MatchEvents { get; set; } = null!;
+        // * 1
+        public virtual Match? Match { get; set; }
+        public int? MatchId { get; set; }
+        // * 1
+        public Position? Position { get; set; }
+        public int? PositionId { get; set; }
+        // * 1
+        public Player? Player { get; set; }
+        public int? PlayerId { get; set; }
+        
+    }
+}
