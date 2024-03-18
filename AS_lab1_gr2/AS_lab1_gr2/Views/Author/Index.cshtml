@@ -1,1 +1,9 @@
 ﻿
+<h1>Autorzy</h1>
+<ul>
+@foreach (var author in Model)
+{
+	<li>@author.FirstName @author.LastName</li>	
+}
+</ul>
+

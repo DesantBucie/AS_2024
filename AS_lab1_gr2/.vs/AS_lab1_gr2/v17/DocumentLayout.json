@@ -1,133 +1,206 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\",
+  "WorkspaceRootPath": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\author\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\author\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\migrations\\20240318150514_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\migrations\\20240318150514_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\author\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\author\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\migrations\\20240318150514_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\migrations\\20240318150514_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\leaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\leaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\league\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\league\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\league\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\league\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\position\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\position\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\position\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\position\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\eventtype\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\eventtype\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\eventtype\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\eventtype\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\tag\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\tag\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\tag\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\tag\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\category\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\category\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\as_lab1_gr2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\as_lab1_gr2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|d:\\localaccounts\\student\\downloads\\as_2024-master\\as_2024-master\\as_lab1_gr2\\as_lab1_gr2\\views\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|c:\\users\\dsnt\\music\\as\\as\\as_lab1_gr2\\as_lab1_gr2\\views\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9267DB9-F557-45DA-A572-7CF5BB3B3815}|AS_lab1_gr2\\AS_lab1_gr2.csproj|solutionrelative:as_lab1_gr2\\views\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AS_lab1_gr2\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,7 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -149,11 +222,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T19:22:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Added.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Added.cshtml",
               "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Author\\Added.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Added.cshtml",
               "RelativeToolTip": "AS_lab1_gr2\\Views\\Author\\Added.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -162,13 +248,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:18:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Add.cshtml",
               "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Author\\Add.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Add.cshtml",
               "RelativeToolTip": "AS_lab1_gr2\\Views\\Author\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-18T15:18:52.624Z",
               "EditorCaption": ""
@@ -176,297 +275,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Index.cshtml",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Author\\Index.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Author\\Index.cshtml",
-              "RelativeToolTip": "AS_lab1_gr2\\Views\\Author\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T15:18:24.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AuthorController.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\AuthorController.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\AuthorController.cs",
               "RelativeToolTip": "AS_lab1_gr2\\Controllers\\AuthorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T15:08:55.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240318150514_initial.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T15:05:14.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\MyDbContext.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\MyDbContext.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\MyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T14:56:13.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "League.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\League.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\League.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\League.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\League.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:57:28.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Player.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Player.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Player.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:51:05.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Team.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Team.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Team.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Team.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:49:57.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Position.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Position.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Position.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Position.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Position.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:48:33.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MatchPlayer.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchPlayer.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\MatchPlayer.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchPlayer.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\MatchPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:44:10.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EventType.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\EventType.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\EventType.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\EventType.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\EventType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:41:20.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MatchEvent.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchEvent.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\MatchEvent.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchEvent.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\MatchEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:39:34.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Match.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Match.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Match.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Match.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Match.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:36:30.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\appsettings.json",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\appsettings.json",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\appsettings.json",
-              "RelativeToolTip": "AS_lab1_gr2\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-17T21:17:18.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Category.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Category.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:33:01.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Comment.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Comment.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:31:10.838Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Author.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Author.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:29:40.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T19:22:46.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Article.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Article.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Article.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Article.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Article.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T19:22:46.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Tag.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Tag.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Models\\Tag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:33:54.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AS_lab1_gr2\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T19:22:46.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AS_lab1_gr2\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-17T19:22:46.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AS_lab1_gr2\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T19:22:46.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Article\\Index.cshtml",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Article\\Index.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Article\\Index.cshtml",
-              "RelativeToolTip": "AS_lab1_gr2\\Views\\Article\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T19:22:46.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "ArticleController.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\ArticleController.cs",
               "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\ArticleController.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\ArticleController.cs",
               "RelativeToolTip": "AS_lab1_gr2\\Controllers\\ArticleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -475,33 +300,154 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AS_lab1_gr2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T19:22:46.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T19:22:46.036Z"
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Author.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:29:40.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "20240318150514_initial.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Migrations\\20240318150514_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:05:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvyIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:01:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Controllers\\PositionController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:41:28.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\TagController.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Controllers\\TagController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:10:47.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\LeagueController.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\LeagueController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\LeagueController.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Controllers\\LeagueController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:17:51.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\EventTypeController.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\EventTypeController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\EventTypeController.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Controllers\\EventTypeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:22:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\League\\Add.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\League\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\League\\Add.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\League\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:19:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\League\\Added.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\League\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\League\\Added.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\League\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:19:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Position\\Add.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Position\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Position\\Add.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Position\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:44:06.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Position\\Added.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Position\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Position\\Added.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Position\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:44:21.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AS_lab1_gr2\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AS_lab1_gr2\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,35 +456,412 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ViewStart.cshtml.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
-              "RelativeToolTip": "AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
+              "DocumentIndex": 18,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\EventType\\Add.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\EventType\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\EventType\\Add.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\EventType\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:31:59.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\EventType\\Added.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\EventType\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\EventType\\Added.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\EventType\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:32:08.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\EventType\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\EventType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\EventType\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\EventType\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T19:22:46.045Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:31:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\League\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\League\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\League\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\League\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:19:20.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Tag\\Added.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Tag\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Tag\\Added.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Tag\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:15:18.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Tag\\Add.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Tag\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Tag\\Add.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Tag\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:14:55.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "AS_lab1_gr2.csproj",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
-              "RelativeDocumentMoniker": "AS_lab1_gr2\\AS_lab1_gr2.csproj",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
-              "RelativeToolTip": "AS_lab1_gr2\\AS_lab1_gr2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-17T19:22:46.049Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Tag\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Tag\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Tag\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Tag\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:14:44.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Category\\Added.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Category\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Category\\Added.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Category\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:04:50.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Category\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Category\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:04:43.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:04:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\MyDbContext.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:56:13.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "League.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\League.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\League.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\League.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\League.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:57:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Player.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:51:05.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Team.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:49:57.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Position.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:48:33.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MatchPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchPlayer.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\MatchPlayer.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchPlayer.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\MatchPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:44:10.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Tag.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:33:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\EventType.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\EventType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:41:20.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MatchEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchEvent.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\MatchEvent.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\MatchEvent.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\MatchEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:39:34.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Category.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:33:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Match.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:36:30.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\appsettings.json",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\appsettings.json",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\appsettings.json",
+              "RelativeToolTip": "AS_lab1_gr2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T21:17:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Comment.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:31:10.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T19:22:46.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Models\\Article.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:22:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T19:22:46.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AS_lab1_gr2\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-17T19:22:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T19:22:46.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T19:22:46.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\Student\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T19:22:46.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewStart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
+              "RelativeDocumentMoniker": "AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
+              "RelativeToolTip": "AS_lab1_gr2\\Views\\_ViewStart.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:22:46.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Program.cs",
               "RelativeDocumentMoniker": "AS_lab1_gr2\\Program.cs",
-              "ToolTip": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\Program.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\Program.cs",
               "RelativeToolTip": "AS_lab1_gr2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

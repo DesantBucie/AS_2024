@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj": {}
+    "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj": {}
   },
   "projects": {
-    "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj": {
+    "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
+        "projectUniqueName": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
         "projectName": "AS_lab1_gr2",
-        "projectPath": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\obj\\",
+        "projectPath": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
+        "packagesPath": "C:\\Users\\dsnt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dsnt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

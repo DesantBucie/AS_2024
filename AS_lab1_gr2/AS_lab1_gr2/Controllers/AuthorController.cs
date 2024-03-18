@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using AS_lab1_gr2.Models;
+using System.Diagnostics;
 
 namespace AS_lab1_gr2.Controllers
 {
@@ -12,9 +13,11 @@ namespace AS_lab1_gr2.Controllers
             _dbContext = dbContext;
         }
 
-        public IActionResult Index(int id)
+        public IActionResult Index()
         {
-            return View();
+            var authors = _dbContext.Authors.ToList();
+            Debug.WriteLine("Dupa" + authors);
+            return View(authors);
         }
 
         public IActionResult Add()
