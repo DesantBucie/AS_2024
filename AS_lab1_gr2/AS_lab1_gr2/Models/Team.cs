@@ -13,6 +13,7 @@
         public virtual League? League { get; set; }
         public int LeagueId { get; set; }
         // 2 *
-        public virtual ICollection<Match>? Matches { get; set; }
+        public virtual ICollection<Match>? HomeMatches { get; set; }
+        public virtual ICollection<Match>? AwayMatches { get; set; }
     }
 }

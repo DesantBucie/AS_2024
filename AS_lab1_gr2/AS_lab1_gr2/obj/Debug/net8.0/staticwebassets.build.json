@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rDaAcgN3hU8YznZB9FWIhtxFhO3a8Nwl2K+3dfjODI8=",
+  "Source": "AS_lab1_gr2",
+  "BasePath": "_content/AS_lab1_gr2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AS_lab1_gr2\\wwwroot",
+      "Source": "AS_lab1_gr2",
+      "ContentRoot": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\wwwroot\\",
+      "BasePath": "_content/AS_lab1_gr2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\wwwroot\\css\\site.css",
+      "SourceId": "AS_lab1_gr2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\wwwroot\\",
+      "BasePath": "_content/AS_lab1_gr2",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

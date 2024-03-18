@@ -4236,25 +4236,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/dsnt/.nuget/packages/": {}
+    "C:\\Users\\Student\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/AS_lab1_gr2.csproj",
+      "projectUniqueName": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
       "projectName": "AS_lab1_gr2",
-      "projectPath": "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/AS_lab1_gr2.csproj",
-      "packagesPath": "/Users/dsnt/.nuget/packages/",
-      "outputPath": "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/obj/",
+      "projectPath": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "D:\\LocalAccounts\\Student\\Downloads\\AS_2024-master\\AS_2024-master\\AS_lab1_gr2\\AS_lab1_gr2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/dsnt/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/nix/store/fiv9xff9h01sjacynfvf4l4hf9s15kya-dotnet-sdk-8.0.100-preview.4.23260.5/sdk/8.0.100-preview.4.23260.5/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4267,6 +4274,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4311,7 +4323,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/nix/store/fiv9xff9h01sjacynfvf4l4hf9s15kya-dotnet-sdk-8.0.100-preview.4.23260.5/sdk/8.0.100-preview.4.23260.5/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
