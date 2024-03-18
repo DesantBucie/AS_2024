@@ -9,5 +9,10 @@
         public DateTime FoundingDate { get; set; }
         // 1 *
         public virtual ICollection<Player>? Players { get; set; }
+        // * 1
+        public virtual League? League { get; set; }
+        public int LeagueId { get; set; }
+        // 2 *
+        public virtual ICollection<Match>? Matches { get; set; }
     }
 }

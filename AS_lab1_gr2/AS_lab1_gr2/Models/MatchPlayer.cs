@@ -12,10 +12,10 @@
         public virtual Match? Match { get; set; }
         public int? MatchId { get; set; }
         // * 1
-        public Position? Position { get; set; }
+        public virtual Position? Position { get; set; }
         public int? PositionId { get; set; }
         // * 1
-        public Player? Player { get; set; }
+        public virtual Player? Player { get; set; }
         public int? PlayerId { get; set; }
         
     }

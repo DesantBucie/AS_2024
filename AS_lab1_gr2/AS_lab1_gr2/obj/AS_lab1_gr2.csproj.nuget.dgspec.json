@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj": {}
+    "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/AS_lab1_gr2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj": {
+    "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/AS_lab1_gr2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
+        "projectUniqueName": "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/AS_lab1_gr2.csproj",
         "projectName": "AS_lab1_gr2",
-        "projectPath": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\AS_lab1_gr2.csproj",
-        "packagesPath": "C:\\Users\\dsnt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsnt\\Music\\AS\\AS\\AS_lab1_gr2\\AS_lab1_gr2\\obj\\",
+        "projectPath": "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/AS_lab1_gr2.csproj",
+        "packagesPath": "/Users/dsnt/.nuget/packages/",
+        "outputPath": "/Users/dsnt/Developer/AS_2024/AS_lab1_gr2/AS_lab1_gr2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dsnt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dsnt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/nix/store/fiv9xff9h01sjacynfvf4l4hf9s15kya-dotnet-sdk-8.0.100-preview.4.23260.5/sdk/8.0.100-preview.4.23260.5/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,16 +33,31 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/nix/store/fiv9xff9h01sjacynfvf4l4hf9s15kya-dotnet-sdk-8.0.100-preview.4.23260.5/sdk/8.0.100-preview.4.23260.5/RuntimeIdentifierGraph.json"
         }
       }
     }

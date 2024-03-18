@@ -11,6 +11,10 @@
         public virtual ICollection<MatchEvent>? MatchEvents { get; set; }
         // 1 *
         public virtual ICollection<MatchPlayer>? MatchPlayers { get; set; }
-        
+        // * 2
+        public virtual Team? HomeTeam { get; set; }
+        public int HomeTeamId { get; set; }
+        public virtual Team? AwayTeam { get; set; }
+        public int AwayTeamId { get; set; }
     }
 }

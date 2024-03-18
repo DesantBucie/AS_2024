@@ -12,7 +12,7 @@
         public virtual MatchPlayer? MatchPlayer { get; set; }
         public int? MatchPlayerId { get; set; }
         // * 1
-        public Match? Match { get; set; }
+        public virtual Match? Match { get; set; }
         public int MatchId { get; set; }
     }
 }
