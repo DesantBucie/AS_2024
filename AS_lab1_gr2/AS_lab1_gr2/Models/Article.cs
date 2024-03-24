@@ -10,7 +10,7 @@
         // 1 *
         public virtual ICollection<Comment>? Comments { get; set; }
         // * 1
-        public Category? Category;
+        public virtual Category? Category;
         public int? CategoryId { get; set; }
         // * *
         public virtual ICollection<Tag>? Tags { get; set; }
