@@ -1,0 +1,45 @@
+@using AS_lab1_gr2.Models
+@model AS_lab1_gr2.Models.Player
+@{
+    var positionList = ViewBag.PositionList as List<Position>;
+}
+<h1>@ViewBag.Header</h1>
+<form asp-route="Add" method="post" class="w3-container">
+    <p>
+        <label asp-for="FirstName">Imię:</label>
+        <input asp-for="FirstName" class="w3-input w3-border" />
+    </p>
+     <p>
+            <label asp-for="LastName">Nazwisko:</label>
+            <input asp-for="LastName" class="w3-input w3-border" />
+            </p>
+    <p>
+        <label asp-for="Country">Kraj:</label>
+        <input asp-for="Country" class="w3-input w3-border" />
+    </p>
+    <p>
+        <label asp-for="BirthDate">Data założenia:</label>
+        <input asp-for="BirthDate" type="date" class="w3-input w3-border"/>
+    </p>
+    <p>
+        <label asp-for="Positions">Pozycje:</label>
+        @foreach (var p in @ViewBag.positionList)
+        {
+            <p>
+            <label>@p.Name</label>
+            <input type="checkbox" name="positions" value="@p.Id" class="w3-check" 
+                   @(Model.Positions.Any(pos => pos.Id == p.Id) ? "checked" : "")/>
+            <input type="hidden" name="positions" value="false">
+            </p>
+        }
+        </p>
+    <p>
+        <label asp-for="Team">Zespół:</label>
+        <select asp-for="TeamId" asp-items="@ViewBag.teamList">
+        </select>
+    </p>
+    <p>
+        <button type="submit" class="w3-btn w3-border">@ViewBag.button</button>
+    </p>
+</form>
+

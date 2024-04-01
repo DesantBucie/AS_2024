@@ -3,7 +3,7 @@
 <ul>
     @foreach (var t in ViewBag.teams)
     {
-        <li>@t.Name</li>
+        <li>@t.Name @t.League.Name</li>
     }
 </ul>
 

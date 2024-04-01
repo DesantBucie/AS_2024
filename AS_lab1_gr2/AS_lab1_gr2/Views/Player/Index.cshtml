@@ -1,0 +1,14 @@
+@model AS_lab1_gr2.Models.Player;
+
+<h2>Lista graczy</h2>
+<ul>
+    @foreach (var p in ViewBag.players)
+    {
+        <li>@p.FirstName @p.LastName, @p.Country @p.Team.Name 
+            @foreach (var pos in p.Positions)
+            {
+                <span>@pos.Name </span>
+            }
+            <a asp-action="AddEdit" asp-route-id=@p.Id>Edytuj</a></li>
+    }
+</ul>
