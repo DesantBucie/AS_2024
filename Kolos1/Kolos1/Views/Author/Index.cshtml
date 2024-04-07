@@ -1,0 +1,16 @@
+﻿
+<h2><a asp-controller="Author" asp-action="Add">Dodaj autora</a></h2>
+
+<table>
+	<tr>
+		<th>Imię</th>
+		<th>Nazwisko</th>
+	</tr>
+@foreach (var author in Model)
+{
+	<tr>
+		<td>@author.FirstName</td>
+		<td>@author.LastName</td>
+	</tr>
+}
+</table>

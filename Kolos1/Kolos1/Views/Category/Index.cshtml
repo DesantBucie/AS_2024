@@ -1,0 +1,16 @@
+﻿@model List<Kolos1.Models.Category>
+<h2>Kategorie</h2>
+
+<a asp-action="Add">Dodaj kategorię</a>
+
+<table>
+	<tr>
+		<th>Name</th>
+	</tr>
+@foreach(var cat in @Model)
+{
+	<tr>
+		<td>@cat.Name</td>
+	</tr>
+}
+</table>

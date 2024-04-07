@@ -1,0 +1,27 @@
+﻿@model List<Kolos1.Models.Team>
+
+<h2>Zespoły</h2>
+
+<a asp-action="Add">Dodaj</a>
+
+<table>
+	<tr>
+		<th>Nazwa</th>
+		<th>Kraj</th>
+		<th>Miasto</th>
+		<th>Liga</th>
+		<th>Data założenia</th>
+		<th>Edycja</th>
+	</tr>
+	@foreach (var t in Model)
+	{
+		<tr>
+			<td>@t.Name</td>
+			<td>@t.Country</td>
+			<td>@t.City</td>
+			<td>@t.League.Name</td>
+			<td>@t.FoundingDate.ToShortDateString()</td>
+			<td><a asp-action="Add" asp-route-id="@t.Id">Edytuj</a></td>
+		</tr>
+	}
+</table>

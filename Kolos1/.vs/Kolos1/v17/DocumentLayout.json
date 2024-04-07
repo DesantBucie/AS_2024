@@ -1,0 +1,971 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\article\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\article\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\team\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\team\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\team\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\team\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\player\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\player\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\player\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\player\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\player\\addedupdated.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\player\\addedupdated.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\leaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\leaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\position\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\position\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\position\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\position\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\eventtype\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\eventtype\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\eventtype\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\eventtype\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\category\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\category\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\league\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\league\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\league\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\league\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\tag\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\tag\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\tag\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\tag\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\author\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\author\\added.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\kolos1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\kolos1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\matchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|c:\\users\\dsnt\\developer\\as_2024\\kolos1\\kolos1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E5B3D4-3264-4EE6-85AD-0BC11ABD8220}|Kolos1\\Kolos1.csproj|solutionrelative:kolos1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Cateogry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kolos1\\Models\\Cateogry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Article\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Article\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Article\\Delete.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Article\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T20:02:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Article\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Article\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Article\\AddUpdate.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Article\\AddUpdate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T19:37:17.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\PlayerController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:24:26.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwF4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:42:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T19:42:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Kolos1\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\MyDbContext.cs",
+              "RelativeToolTip": "Kolos1\\MyDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:23:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwEYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:48:08.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T09:47:30.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Team\\Added.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Team\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Team\\Added.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Team\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T20:23:08.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T20:23:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Team\\Add.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Team\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Team\\Add.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Team\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T20:23:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Player\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Player\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Player\\AddUpdate.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Player\\AddUpdate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:19:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Player\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Player\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Player\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Player\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:19:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddedUpdated.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Player\\AddedUpdated.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Player\\AddedUpdated.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Player\\AddedUpdated.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Player\\AddedUpdated.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:19:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\PositionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:13:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Position\\Added.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Position\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Position\\Added.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Position\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T19:11:21.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\LeagueController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\LeagueController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\LeagueController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\LeagueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:02:43.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Position\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T19:11:20.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Position\\Add.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Position\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Position\\Add.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Position\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T19:11:21.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\EventType\\Added.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\EventType\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\EventType\\Added.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\EventType\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T18:28:48.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\EventType\\Add.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\EventType\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\EventType\\Add.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\EventType\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T18:28:48.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\EventType\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\EventType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\EventType\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\EventType\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T18:28:47.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\EventTypeController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\EventTypeController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\EventTypeController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\EventTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:28:16.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Category\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Category\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:11:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\League\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\League\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\League\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\League\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T11:25:39.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Program.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Program.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Program.cs",
+              "RelativeToolTip": "Kolos1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:49:47.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\League\\Added.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\League\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\League\\Added.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\League\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T11:25:39.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Category\\Added.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Category\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Category\\Added.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Category\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:11:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:11:04.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:29:31.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\League\\Add.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\League\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\League\\Add.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\League\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T11:25:39.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Tag\\Add.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Tag\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Tag\\Add.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Tag\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:41:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Tag\\Added.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Tag\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Tag\\Added.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Tag\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:41:19.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\TagController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\TagController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:43:40.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Tag\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Tag\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Tag\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Tag\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:41:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Author\\Add.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Author\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Author\\Add.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Author\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T21:29:25.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T21:29:01.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T09:30:41.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\appsettings.json",
+              "RelativeDocumentMoniker": "Kolos1\\appsettings.json",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\appsettings.json",
+              "RelativeToolTip": "Kolos1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T18:49:40.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "League.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\League.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\League.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\League.cs",
+              "RelativeToolTip": "Kolos1\\Models\\League.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:17:36.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Position.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:44:12.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Tag.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:30:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:32:26.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Added.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Author\\Added.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Author\\Added.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Author\\Added.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Author\\Added.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:01:11.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Comment.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:29:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T19:50:32.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Kolos1.csproj",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Kolos1.csproj",
+              "RelativeDocumentMoniker": "Kolos1\\Kolos1.csproj",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Kolos1.csproj",
+              "RelativeToolTip": "Kolos1\\Kolos1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T10:21:22.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kolos1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Kolos1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T18:57:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Player.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:44:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MatchPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\MatchPlayer.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\MatchPlayer.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\MatchPlayer.cs",
+              "RelativeToolTip": "Kolos1\\Models\\MatchPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:44:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MatchEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\MatchEvent.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\MatchEvent.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\MatchEvent.cs",
+              "RelativeToolTip": "Kolos1\\Models\\MatchEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:41:06.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Match.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:35:12.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\EventType.cs",
+              "RelativeToolTip": "Kolos1\\Models\\EventType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:42:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Team.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:44:12.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Cateogry.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Cateogry.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Cateogry.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Cateogry.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Cateogry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:30:21.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Author.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:29:40.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Models\\Article.cs",
+              "RelativeToolTip": "Kolos1\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:28:28.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Kolos1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Kolos1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:56:06.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

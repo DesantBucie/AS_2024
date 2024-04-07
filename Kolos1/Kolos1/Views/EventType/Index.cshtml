@@ -1,0 +1,17 @@
+﻿@model List<Kolos1.Models.EventType>
+
+<h2>Rodzaje wydarzenia</h2>
+
+<a asp-action="Add">Dodaj</a>
+
+<table>
+	<tr>
+		<th>Nazwa</th>
+	</tr>
+@foreach(var e in @Model)
+{
+	<tr>
+		<td>@e.Name</td>
+	</tr>
+}
+</table>

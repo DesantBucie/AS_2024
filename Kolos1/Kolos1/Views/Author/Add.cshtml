@@ -1,0 +1,16 @@
+﻿@model Kolos1.Models.Author
+
+<form asp-route="Add" method="post">
+	<p>
+		<label asp-for="FirstName">Imię:</label>
+		<input asp-for="FirstName" />
+	</p>
+	<p>
+		<label asp-for="LastName">Nazwisko:</label>
+		<input asp-for="LastName" />
+	</p>
+	<p>
+		<button type="submit">Dodaj</button>
+	</p>
+
+</form>

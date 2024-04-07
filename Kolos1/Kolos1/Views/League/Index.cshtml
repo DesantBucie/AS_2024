@@ -1,0 +1,19 @@
+﻿@model List<Kolos1.Models.League>
+<h2>Ligi</h2>
+
+<a asp-action="Add">Dodaj ligę</a>
+<table>
+	<tr>
+		<th>Nazwa</th>
+		<th>Kraj</th>
+		<th>Poziom</th>
+	</tr>
+@foreach (var l in Model)
+{
+	<tr>
+		<td>@l.Name</td>
+		<td>@l.Country</td>
+		<td>@l.Level</td>
+	</tr>
+}
+</table>

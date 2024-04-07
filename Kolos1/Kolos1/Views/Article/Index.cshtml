@@ -1,0 +1,27 @@
+﻿@model List<Kolos1.Models.Article>
+
+<h2>Artykuły</h2>
+
+<table>
+	<tr>
+		<th>Tytuł</th>
+		<th>Wstęp</th>
+		<th>Autor</th>
+		<th>Category</th>
+		<th>Zawartość</th>
+		<th>Edycja</th>
+		<th>Usuwanie</th>
+	</tr>
+@foreach(var a in Model)
+{
+	<tr>
+		<td>@a.Title</td>
+		<td>@a.Lead</td>
+		<td>@(a.Author?.FirstName + " " + a.Author?.LastName)</td>
+		<td>@a.Cateogry?.Name</td>
+		<td>@a.Content</td>
+		<td><a asp-action="AddUpdate" asp-route-id="@a.Id">Edytuj</a></td>
+		<td><a asp-action="Delete" asp-route-id="@a.Id">Usuń</a></td>
+	</tr>
+}
+</table>

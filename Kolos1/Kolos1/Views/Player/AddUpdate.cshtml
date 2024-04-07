@@ -1,0 +1,38 @@
+﻿@model Kolos1.Models.Player
+<h2>@ViewBag.Header</h2>
+<form asp-action="AddUpdate" method="post">
+	<p>
+		<label asp-for="FirstName">Imię:</label>
+		<input asp-for="FirstName" />
+	</p>
+	<p>
+		<label asp-for="LastName">Nazwisko:</label>
+		<input asp-for="LastName" />
+	</p>
+	<p>
+		<label asp-for="Country">Kraj:</label>
+		<input asp-for="Country" />
+	</p>
+	<p>
+		<label asp-for="BirthDate">Data urodzenia:</label>
+		<input asp-for="BirthDate" type="datetime-local" />
+	</p>
+	<p>
+		<label asp-for="Team">Drużyna:</label>
+		<select asp-for="TeamId" asp-items="@ViewBag.TeamsList"></select>
+	</p>
+	<p>
+		<label asp-for="Positions">Pozycje</label>
+		@foreach (var pos in @ViewBag.PositionList)
+		{
+			var isChecked = Model?.Positions != null && Model.Positions.Any(p => p.Id.ToString() == pos.Value);
+			<p>
+				<label>@pos.Text</label>
+				<input name="Positions" type="checkbox" value="@pos.Value" @(isChecked ? "checked" : "" )/>
+			</p>
+		}
+	</p>
+	<p>
+		<button type="submit">@ViewBag.Button</button>
+	</p>
+</form>

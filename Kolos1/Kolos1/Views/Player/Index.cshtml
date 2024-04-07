@@ -1,0 +1,34 @@
+﻿@model List<Kolos1.Models.Player>
+
+<h2>Gracze</h2>
+
+<a asp-action="AddUpdate">Dodaj</a>
+
+<table>
+	<tr>
+		<th>Imię</th>
+		<th>Nazwisko</th>
+		<th>Kraj</th>
+		<th>Data urodzenia</th>
+		<th>Klub</th>
+		<th>Pozycje</th>
+		<th>Edycja</th>
+	</tr>
+	@foreach(var p in Model)
+	{
+		<tr>
+			<td>@p.FirstName</td>
+			<td>@p.LastName</td>
+			<td>@p.Country</td>
+			<td>@p.BirthDate.ToShortDateString()</td>
+			<td>@p.Team!.Name</td>
+			<td>
+				@foreach(var pos in p.Positions)
+				{
+					<span>@pos.Name</span>
+				}
+			</td>
+			<td><a asp-action="AddUpdate" asp-route-id="@p.Id">Edytuj</a></td>
+		</tr>
+	}
+</table>

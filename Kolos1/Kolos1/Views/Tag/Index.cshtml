@@ -1,0 +1,8 @@
+﻿<h2>Tagi</h2>
+
+<a asp-action="Add">Dodaj Tag</a>
+
+@foreach(var tag in Model)
+{
+	@tag.Name
+}

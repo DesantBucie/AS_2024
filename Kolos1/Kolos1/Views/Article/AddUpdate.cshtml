@@ -1,0 +1,28 @@
+﻿@model Kolos1.Models.Article
+
+<h2>Dodawanie/edycja artykulu</h2>
+<form asp-action="AddUpdate" method="post">
+	<p>
+		<label asp-for="Title">Tytuł</label>
+		<input asp-for="Title" />
+	</p>
+	<p>
+		<label asp-for="Lead">Wstęp</label>
+		<input asp-for="Lead" />
+	</p>
+	<p>
+		<label asp-for="Content">Zawartość</label>
+		<textarea asp-for="Content" ></textarea>
+	</p>
+	<p>
+		<label asp-for="Cateogry">Kategoria</label>
+		<select asp-for="CategoryId" asp-items="@ViewBag.CategoryList"></select>
+	</p>
+	<p>
+		<label asp-for="Author">Autor</label>
+		<select asp-for="AuthorId" asp-items="@ViewBag.AuthorsList"></select>
+	</p>
+	<p>
+		<button type="submit">Dodaj/Edytuj</button>
+	</p>
+</form>

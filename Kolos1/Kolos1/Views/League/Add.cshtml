@@ -1,0 +1,20 @@
+﻿@model Kolos1.Models.League
+<h2>Dodaj ligę</h2>
+
+<form asp-action="Add" method="post">
+	<p>
+		<label asp-for="Name">Nazwa</label>
+		<input asp-for="Name" />
+	</p>
+	<p>
+		<label asp-for="Country">Kraj</label>
+		<input asp-for="Country" />
+	</p>
+	<p>
+		<label asp-for="Level">Poziom</label>
+		<input asp-for="Level" type="number"/>
+	</p>
+	<p>
+		<button type="submit">Dodaj</button>
+	</p>
+</form>
