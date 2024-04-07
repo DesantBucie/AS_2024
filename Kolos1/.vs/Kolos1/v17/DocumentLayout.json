@@ -262,8 +262,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Article\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T20:02:00.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T20:02:00.939Z"
             },
             {
               "$type": "Document",
@@ -275,8 +274,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Article\\AddUpdate.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T19:37:17.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T19:37:17.454Z"
             },
             {
               "$type": "Document",
@@ -288,8 +286,7 @@
               "RelativeToolTip": "Kolos1\\Controllers\\PlayerController.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAwwEAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T21:24:26.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T21:24:26.717Z"
             },
             {
               "$type": "Document",
@@ -301,8 +298,7 @@
               "RelativeToolTip": "Kolos1\\Controllers\\ArticleController.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAIwF4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T09:42:26.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T09:42:26.334Z"
             },
             {
               "$type": "Document",
@@ -314,8 +310,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Article\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-05T19:42:01.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T19:42:01.846Z"
             },
             {
               "$type": "Document",
@@ -325,7 +320,7 @@
               "RelativeDocumentMoniker": "Kolos1\\MyDbContext.cs",
               "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\Kolos1\\Kolos1\\MyDbContext.cs",
               "RelativeToolTip": "Kolos1\\MyDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwAwAAAAlAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T21:23:02.997Z",
               "EditorCaption": ""
@@ -340,8 +335,7 @@
               "RelativeToolTip": "Kolos1\\Controllers\\TeamController.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAYwEYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T20:48:08.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T20:48:08.554Z"
             },
             {
               "$type": "Document",
@@ -353,8 +347,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T09:47:30.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T09:47:30.572Z"
             },
             {
               "$type": "Document",
@@ -366,8 +359,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Team\\Added.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T20:23:08.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T20:23:08.935Z"
             },
             {
               "$type": "Document",
@@ -379,8 +371,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Team\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T20:23:07.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T20:23:07.906Z"
             },
             {
               "$type": "Document",
@@ -392,8 +383,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Team\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T20:23:08.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T20:23:08.526Z"
             },
             {
               "$type": "Document",
@@ -405,8 +395,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Player\\AddUpdate.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T21:19:17.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T21:19:17.688Z"
             },
             {
               "$type": "Document",
@@ -418,8 +407,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Player\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T21:19:17.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T21:19:17.232Z"
             },
             {
               "$type": "Document",
@@ -431,8 +419,7 @@
               "RelativeToolTip": "Kolos1\\Views\\Player\\AddedUpdated.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T21:19:18.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T21:19:18.135Z"
             },
             {
               "$type": "Document",
@@ -444,8 +431,7 @@
               "RelativeToolTip": "Kolos1\\Controllers\\PositionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:13:20.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T19:13:20.271Z"
             },
             {
               "$type": "Document",
