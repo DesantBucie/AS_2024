@@ -1,0 +1,5 @@
+C:\Users\dsnt\Downloads\AS_lab2_gr4\AS_lab2_gr4\SchoolRegister\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.csproj.AssemblyReference.cache
+C:\Users\dsnt\Downloads\AS_lab2_gr4\AS_lab2_gr4\SchoolRegister\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsnt\Downloads\AS_lab2_gr4\AS_lab2_gr4\SchoolRegister\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.AssemblyInfoInputs.cache
+C:\Users\dsnt\Downloads\AS_lab2_gr4\AS_lab2_gr4\SchoolRegister\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.AssemblyInfo.cs
+C:\Users\dsnt\Downloads\AS_lab2_gr4\AS_lab2_gr4\SchoolRegister\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.csproj.CoreCompileInputs.cache
