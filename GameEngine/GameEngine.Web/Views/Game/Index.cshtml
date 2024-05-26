@@ -1,0 +1,25 @@
+﻿@model IEnumerable<GameVm>
+
+<h1>Games</h1>
+<a asp-action="AddUpdate"><h3>Add Game</h3></a>
+<table>
+	<tr>
+		<th>Title</th>
+		<th>Publisher</th>
+		<th>Engine Name</th>
+		<th>Edytuj</th>
+		<th>Usun</th>
+	</tr>
+	@if(Model != null){
+	@foreach(var g in Model)
+	{
+		<tr>
+			<td>@g.Title</td>
+			<td>@g.Publisher</td>
+			<td>@g.EngineName</td>
+			<td><a asp-action="AddUpdate" asp-route-id="@g.Id">Edytuj</a></td>
+			<td><a asp-action="Delete" asp-route-id="@g.Id">Usun</a></td>
+		</tr>
+	}
+	}
+</table>

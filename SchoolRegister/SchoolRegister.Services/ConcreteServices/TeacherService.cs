@@ -17,8 +17,10 @@ namespace SchoolRegister.Services.ConcreteServices
     public class TeacherService : BaseService, ITeacherService
     {
         private UserManager<User> _userManager;
-        public TeacherService(ApplicationDbContext dbContext, ILogger logger, IMapper mapper) 
-            : base(dbContext, logger, mapper) {}
+        public TeacherService(ApplicationDbContext dbContext, ILogger logger, IMapper mapper, UserManager<User> userManager) 
+            : base(dbContext, logger, mapper) {
+            _userManager = userManager;
+        }
 
         public TeacherVm GetTeacher(Expression<Func<Teacher, bool>> filterPredicate)
         {
@@ -43,12 +45,37 @@ namespace SchoolRegister.Services.ConcreteServices
 
         public IEnumerable<GroupVm> GetTeacherGroups(TeachersGroupsVm getTeachersGroups)
         {
-            if (getTeachersGroups == null)
-                throw new ArgumentNullException("getTeachersGroups is null");
-            
+            try
+            {
+                var User = DbContext.Users
+                    .OfType<Teacher>()
+                    .FirstOrDefault(t => t.Id == getTeachersGroups.TeacherId);
+                if (User == null)
+                {
+                    throw new ArgumentNullException($"Data Model is null");
+                }
+                if (_userManager.IsInRoleAsync(User, "Teacher").Result)
+                {
+                    if (getTeachersGroups == null) 
+                    { 
+                        throw new ArgumentNullException($"View Model is null"); 
+                    }
+                    var groups = DbContext.Groups.AsQueryable();
+                    groups = groups.Where(g => g.SubjectGroups.Any(sg => sg.Subject.TeacherId == getTeachersGroups.TeacherId));
+                    
+                    var groupVms = Mapper.Map<IEnumerable<GroupVm>>(groups);
+                    return groupVms;
+                }
+                else { throw new TypeAccessException("Access denied"); }
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError(ex, ex.Message);
+                throw;
+            }
         }
 
-        public IEnumerable<TeacherVm> GetTeachers(Expression<Func<Teacher, bool>> filterPredicate = null)
+        public IEnumerable<TeacherVm> GetTeachers(Expression<Func<Teacher, bool>> filterPredicate = null!)
         {
             try
             {
@@ -58,6 +85,8 @@ namespace SchoolRegister.Services.ConcreteServices
 
                 if (filterPredicate == null)
                     throw new ArgumentNullException("FilterPredicate is null");
+
+                teacherEntities = teacherEntities.Where(filterPredicate);
 
                 var teacherVms = Mapper.Map<IEnumerable<TeacherVm>>(teacherEntities);
                 return teacherVms;

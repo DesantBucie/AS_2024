@@ -1,0 +1,575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.viewmodels\\vm\\enginevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|solutionrelative:gameengine.viewmodels\\vm\\enginevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengines.services\\configuration\\mainprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|solutionrelative:gameengines.services\\configuration\\mainprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.viewmodels\\vm\\addorupdategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|solutionrelative:gameengine.viewmodels\\vm\\addorupdategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.viewmodels\\vm\\gamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|solutionrelative:gameengine.viewmodels\\vm\\gamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.viewmodels\\vm\\addorupdateenginevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|solutionrelative:gameengine.viewmodels\\vm\\addorupdateenginevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengines.services\\concreteservices\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|solutionrelative:gameengines.services\\concreteservices\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\game\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\game\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\engine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\engine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\engine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\engine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\game\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\game\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengines.services\\concreteservices\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|solutionrelative:gameengines.services\\concreteservices\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\controllers\\enginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\controllers\\enginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\engine\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\engine\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.viewmodels\\vm\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|solutionrelative:gameengine.viewmodels\\vm\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengines.services\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|solutionrelative:gameengines.services\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengines.services\\interfaces\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|solutionrelative:gameengines.services\\interfaces\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengines.services\\concreteservices\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C02E90A-DC37-4C34-A62A-9FCA746646B8}|GameEngines.Services\\GameEngines.Services.csproj|solutionrelative:gameengines.services\\concreteservices\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\gameengine.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\gameengine.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A09B1C-D41D-4CA5-9E14-79B0AEFDFFAD}|GameEngine.DAL\\GameEngine.DAL.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.dal\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A09B1C-D41D-4CA5-9E14-79B0AEFDFFAD}|GameEngine.DAL\\GameEngine.DAL.csproj|solutionrelative:gameengine.dal\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.viewmodels\\gameengine.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F042E52-90BB-41B1-AEDB-DA54373C1F59}|GameEngine.ViewModels\\GameEngine.ViewModels.csproj|solutionrelative:gameengine.viewmodels\\gameengine.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA2C5700-2A0C-4E5E-9919-9ED4F8F5FA6F}|GameEngine.Web\\GameEngine.Web.csproj|solutionrelative:gameengine.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A09B1C-D41D-4CA5-9E14-79B0AEFDFFAD}|GameEngine.DAL\\GameEngine.DAL.csproj|c:\\users\\dsnt\\developer\\as_2024\\gameengine\\gameengine.dal\\migrations\\20240526145649_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A09B1C-D41D-4CA5-9E14-79B0AEFDFFAD}|GameEngine.DAL\\GameEngine.DAL.csproj|solutionrelative:gameengine.dal\\migrations\\20240526145649_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "GameEngine.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:42:53.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Game\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Game\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Game\\Delete.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Game\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:21:39.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\ConcreteServices\\GameService.cs",
+              "RelativeDocumentMoniker": "GameEngines.Services\\ConcreteServices\\GameService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\ConcreteServices\\GameService.cs",
+              "RelativeToolTip": "GameEngines.Services\\ConcreteServices\\GameService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwEAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:10:24.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Engine\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Engine\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Engine\\Index.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Engine\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:35:46.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameEngine.Web\\Controllers\\GameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:49:58.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\Configuration\\MainProfile.cs",
+              "RelativeDocumentMoniker": "GameEngines.Services\\Configuration\\MainProfile.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\Configuration\\MainProfile.cs",
+              "RelativeToolTip": "GameEngines.Services\\Configuration\\MainProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:04:59.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Game\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:47:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Game\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Game\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Game\\AddUpdate.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Game\\AddUpdate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:13:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Engine\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Engine\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Engine\\AddUpdate.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Engine\\AddUpdate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:05:01.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:28:40.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:51:04.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Engine\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Engine\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Engine\\Delete.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Engine\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:56:33.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddOrUpdateEngineVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\AddOrUpdateEngineVm.cs",
+              "RelativeDocumentMoniker": "GameEngine.ViewModels\\VM\\AddOrUpdateEngineVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\AddOrUpdateEngineVm.cs",
+              "RelativeToolTip": "GameEngine.ViewModels\\VM\\AddOrUpdateEngineVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:53:34.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrUpdateGameVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\AddOrUpdateGameVm.cs",
+              "RelativeDocumentMoniker": "GameEngine.ViewModels\\VM\\AddOrUpdateGameVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\AddOrUpdateGameVm.cs",
+              "RelativeToolTip": "GameEngine.ViewModels\\VM\\AddOrUpdateGameVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:58:57.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\Interfaces\\IGameService.cs",
+              "RelativeDocumentMoniker": "GameEngines.Services\\Interfaces\\IGameService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\Interfaces\\IGameService.cs",
+              "RelativeToolTip": "GameEngines.Services\\Interfaces\\IGameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:58:23.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EngineVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\EngineVm.cs",
+              "RelativeDocumentMoniker": "GameEngine.ViewModels\\VM\\EngineVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\EngineVm.cs",
+              "RelativeToolTip": "GameEngine.ViewModels\\VM\\EngineVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:24:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\GameVm.cs",
+              "RelativeDocumentMoniker": "GameEngine.ViewModels\\VM\\GameVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\GameVm.cs",
+              "RelativeToolTip": "GameEngine.ViewModels\\VM\\GameVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:31:44.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GameEngine.ViewModels\\VM\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\VM\\ErrorViewModel.cs",
+              "RelativeToolTip": "GameEngine.ViewModels\\VM\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:29:03.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EngineService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\ConcreteServices\\EngineService.cs",
+              "RelativeDocumentMoniker": "GameEngines.Services\\ConcreteServices\\EngineService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\ConcreteServices\\EngineService.cs",
+              "RelativeToolTip": "GameEngines.Services\\ConcreteServices\\EngineService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:40:51.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EngineController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\EngineController.cs",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Controllers\\EngineController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\EngineController.cs",
+              "RelativeToolTip": "GameEngine.Web\\Controllers\\EngineController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:06:53.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEngineService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\Interfaces\\IEngineService.cs",
+              "RelativeDocumentMoniker": "GameEngines.Services\\Interfaces\\IEngineService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\Interfaces\\IEngineService.cs",
+              "RelativeToolTip": "GameEngines.Services\\Interfaces\\IEngineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:23:21.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Program.cs",
+              "RelativeToolTip": "GameEngine.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:53:21.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameEngine.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:30:27.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:28:49.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:28:42.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:28:42.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:28:38.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GameEngine.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GameEngine.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:04:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\ConcreteServices\\BaseService.cs",
+              "RelativeDocumentMoniker": "GameEngines.Services\\ConcreteServices\\BaseService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngines.Services\\ConcreteServices\\BaseService.cs",
+              "RelativeToolTip": "GameEngines.Services\\ConcreteServices\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:10:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240526145649_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.DAL\\Migrations\\20240526145649_Initial.cs",
+              "RelativeDocumentMoniker": "GameEngine.DAL\\Migrations\\20240526145649_Initial.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.DAL\\Migrations\\20240526145649_Initial.cs",
+              "RelativeToolTip": "GameEngine.DAL\\Migrations\\20240526145649_Initial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:56:49.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GameEngine.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\GameEngine.Web.csproj",
+              "RelativeDocumentMoniker": "GameEngine.Web\\GameEngine.Web.csproj",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\GameEngine.Web.csproj",
+              "RelativeToolTip": "GameEngine.Web\\GameEngine.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T14:55:58.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GameEngine.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\GameEngine.ViewModels.csproj",
+              "RelativeDocumentMoniker": "GameEngine.ViewModels\\GameEngine.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.ViewModels\\GameEngine.ViewModels.csproj",
+              "RelativeToolTip": "GameEngine.ViewModels\\GameEngine.ViewModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T14:53:49.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "GameEngine.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.Web\\appsettings.json",
+              "RelativeToolTip": "GameEngine.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T14:48:51.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.DAL\\EF\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GameEngine.DAL\\EF\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\GameEngine\\GameEngine.DAL\\EF\\AppDbContext.cs",
+              "RelativeToolTip": "GameEngine.DAL\\EF\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:58:32.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

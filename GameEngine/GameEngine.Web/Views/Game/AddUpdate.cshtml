@@ -1,0 +1,23 @@
+﻿@model AddOrUpdateGameVm
+
+<form asp-action="AddUpdate" method="post">
+	<p>
+		<label>Title</label>
+		<input asp-for="Title" />
+	</p>
+	<p>
+		<label>Publisher</label>
+		<input asp-for="Publisher" />
+	</p>
+	<p>
+		<label>Publish Date</label>
+		<input asp-for="PublishDate" />
+	</p>
+	<p>
+		<label>Engine</label>
+		<select asp-for="EngineId" asp-items="@ViewBag.Engines"></select>
+	</p>
+	<p>
+		<input type="submit" />
+	</p>
+</form>

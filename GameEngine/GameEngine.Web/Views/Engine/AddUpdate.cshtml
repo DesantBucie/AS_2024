@@ -1,0 +1,15 @@
+﻿@model GameEngine.ViewModels.VM.AddOrUpdateEngineVm;
+
+<form asp-controller="Engine" asp-action="AddUpdate" method="post">
+	<p>
+		<label >Name</label>
+		<input asp-for="Name" />
+	</p>
+	<p>
+		<label>CreationDate</label>
+		<input asp-for="CreationDate" />
+	</p>
+	<p>
+		<input type="submit" name="Submit" />
+	</p>
+</form>

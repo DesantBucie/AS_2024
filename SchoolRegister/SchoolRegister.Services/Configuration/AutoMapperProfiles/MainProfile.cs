@@ -18,8 +18,17 @@ namespace SchoolRegister.Services.Configuration.AutoMapperProfiles
             CreateMap<AddOrUpdateSubjectVm, Subject>();
             CreateMap<Group, GroupVm>()
                 .ForMember(dest => dest.Students, x => x.MapFrom(src => src.Students))
-                .ForMember(dest => dest.Subjects, x => x.MapFrom(src => src.SubjectGroup.Select(s => s.Subject)));
+                .ForMember(dest => dest.Subjects, x => x.MapFrom(src => src.SubjectGroups.Select(s => s.Subject)));
             CreateMap<SubjectVm, AddOrUpdateSubjectVm>();
+
+            CreateMap<AddGradeToStudentVm, Grade>();
+            CreateMap<Grade, GradeVm>()
+                .ForMember(dest => dest.SubjectName, x => x.MapFrom(src => src.Subject!.Name))
+                .ForMember(dest => dest.StudentName, x => x.MapFrom(src => src.Student! == null ?
+                null :
+                $"{src.Student.FirstName} {src.Student.LastName}"));
+
+
             CreateMap<Student, StudentVm>()
                 .ForMember(dest => dest.GroupName, x => x.MapFrom(src => src.Group == null ? null : src.Group.Name))
                 .ForMember(dest => dest.ParentName,

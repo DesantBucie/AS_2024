@@ -1,0 +1,7 @@
+﻿@model GameVm
+
+<form asp-action="Delete" method="post">
+	<input asp-for="Id" name="GameId" hidden/>
+	<button type="submit">Usun</button>
+</form>
+<a asp-action="Index"><button>Cofnij</button></a>

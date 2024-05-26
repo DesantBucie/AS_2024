@@ -217,9 +217,6 @@ namespace SchoolRegister.DAL.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("GroupId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -228,8 +225,6 @@ namespace SchoolRegister.DAL.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("GroupId");
 
                     b.HasIndex("TeacherId");
 
@@ -444,10 +439,6 @@ namespace SchoolRegister.DAL.Migrations
 
             modelBuilder.Entity("SchoolRegister.Model.DataModels.Subject", b =>
                 {
-                    b.HasOne("SchoolRegister.Model.DataModels.Group", null)
-                        .WithMany("SubjectGroup")
-                        .HasForeignKey("GroupId");
-
                     b.HasOne("SchoolRegister.Model.DataModels.Teacher", "Teacher")
                         .WithMany("Subjects")
                         .HasForeignKey("TeacherId");
@@ -458,7 +449,7 @@ namespace SchoolRegister.DAL.Migrations
             modelBuilder.Entity("SchoolRegister.Model.DataModels.SubjectGroup", b =>
                 {
                     b.HasOne("SchoolRegister.Model.DataModels.Group", "Group")
-                        .WithMany()
+                        .WithMany("SubjectGroups")
                         .HasForeignKey("GroupId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -493,7 +484,7 @@ namespace SchoolRegister.DAL.Migrations
                 {
                     b.Navigation("Students");
 
-                    b.Navigation("SubjectGroup");
+                    b.Navigation("SubjectGroups");
                 });
 
             modelBuilder.Entity("SchoolRegister.Model.DataModels.Subject", b =>

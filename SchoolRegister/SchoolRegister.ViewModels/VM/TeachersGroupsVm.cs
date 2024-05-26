@@ -8,6 +8,6 @@ namespace SchoolRegister.ViewModels.VM
 {
     public class TeachersGroupsVm
     {
-        IList<GroupVm> Groups { get; set; } = null!;
+        public int TeacherId { get; set; }
     }
 }

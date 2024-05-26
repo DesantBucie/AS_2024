@@ -3,88 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\concreteservices\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\concreteservices\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\teachersgroupsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\teachersgroupsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\configuration\\automapperprofiles\\mainprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\configuration\\automapperprofiles\\mainprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\teachervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\teachervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\concreteservices\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\concreteservices\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{900EC9C8-848A-422E-A9F7-E7A97D81EA72}|SchoolRegister.DAL\\SchoolRegister.DAL.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.dal\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900EC9C8-848A-422E-A9F7-E7A97D81EA72}|SchoolRegister.DAL\\SchoolRegister.DAL.csproj|solutionrelative:schoolregister.dal\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\concreteservices\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\concreteservices\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\addorupdatesubjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\addorupdatesubjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\subjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\subjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\groupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\groupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\concreteservices\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\concreteservices\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D937596A-F5B3-4E9E-A7CD-2D320EBE8F30}|SchoolRegister.Web\\SchoolRegister.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D937596A-F5B3-4E9E-A7CD-2D320EBE8F30}|SchoolRegister.Web\\SchoolRegister.Web.csproj|solutionrelative:schoolregister.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\schoolregister.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\schoolregister.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\configuration\\automapperprofiles\\mainprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\configuration\\automapperprofiles\\mainprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\gradevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\gradevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\subjectgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\subjectgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\concreteservices\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\concreteservices\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\concreteservices\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\concreteservices\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\concreteservices\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\concreteservices\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.services\\interfaces\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54A6FA-963C-4BC6-9F91-F8E08469AE29}|SchoolRegister.Services\\SchoolRegister.Services.csproj|solutionrelative:schoolregister.services\\interfaces\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\addgradetostudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\addgradetostudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\addorupdatesubjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\addorupdatesubjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\gradesreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\gradesreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\groupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\groupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\getgradesreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\getgradesreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\subjectgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\subjectgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\rolevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\rolevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,6 +105,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\gradescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\gradescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EC9C8-848A-422E-A9F7-E7A97D81EA72}|SchoolRegister.DAL\\SchoolRegister.DAL.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.dal\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EC9C8-848A-422E-A9F7-E7A97D81EA72}|SchoolRegister.DAL\\SchoolRegister.DAL.csproj|solutionrelative:schoolregister.dal\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\teachersgroupsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\teachersgroupsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\teachervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\teachervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\subjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\subjectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D937596A-F5B3-4E9E-A7CD-2D320EBE8F30}|SchoolRegister.Web\\SchoolRegister.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D937596A-F5B3-4E9E-A7CD-2D320EBE8F30}|SchoolRegister.Web\\SchoolRegister.Web.csproj|solutionrelative:schoolregister.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\schoolregister.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\schoolregister.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D937596A-F5B3-4E9E-A7CD-2D320EBE8F30}|SchoolRegister.Web\\SchoolRegister.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.web\\schoolregister.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -121,18 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D937596A-F5B3-4E9E-A7CD-2D320EBE8F30}|SchoolRegister.Web\\SchoolRegister.Web.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D937596A-F5B3-4E9E-A7CD-2D320EBE8F30}|SchoolRegister.Web\\SchoolRegister.Web.csproj|solutionrelative:schoolregister.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.viewmodels\\vm\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80319702-B5F1-4301-9377-520D3DD792F1}|SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj|solutionrelative:schoolregister.viewmodels\\vm\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\gradescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\gradescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|c:\\users\\dsnt\\developer\\as_2024\\schoolregister\\schoolregister.model\\datamodels\\rolevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE5F424-3BF8-4206-B338-AB04BC7BCA90}|SchoolRegister.Model\\SchoolRegister.Model.csproj|solutionrelative:schoolregister.model\\datamodels\\rolevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -155,136 +179,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
-              "RelativeToolTip": "SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDgAAAAjAAAA",
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\GradeService.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Services\\ConcreteServices\\GradeService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\GradeService.cs",
+              "RelativeToolTip": "SchoolRegister.Services\\ConcreteServices\\GradeService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:24:40.959Z",
+              "WhenOpened": "2024-05-26T10:46:17.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "SubjectService.cs",
               "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\SubjectService.cs",
               "RelativeDocumentMoniker": "SchoolRegister.Services\\ConcreteServices\\SubjectService.cs",
               "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\SubjectService.cs",
               "RelativeToolTip": "SchoolRegister.Services\\ConcreteServices\\SubjectService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwDIAAABLAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAApwD0AAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T18:39:26.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainProfile.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
-              "RelativeToolTip": "SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "DocumentIndex": 9,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
+              "RelativeToolTip": "SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:51:54.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TeachersGroupsVm.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
-              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:13:04.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TeacherVm.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
-              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:10:31.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Teacher.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Teacher.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Teacher.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:34.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:53:35.242Z",
+              "WhenOpened": "2024-05-24T18:13:02.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
+              "RelativeToolTip": "SchoolRegister.Services\\ConcreteServices\\TeacherService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIAwwD8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:24:40.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\BaseService.cs",
               "RelativeDocumentMoniker": "SchoolRegister.Services\\ConcreteServices\\BaseService.cs",
               "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\ConcreteServices\\BaseService.cs",
               "RelativeToolTip": "SchoolRegister.Services\\ConcreteServices\\BaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T18:15:56.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\User.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\User.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\User.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "DocumentIndex": 4,
+              "Title": "GradeVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GradeVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\GradeVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GradeVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\GradeVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:02:09.658Z",
+              "WhenOpened": "2024-05-26T10:42:47.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
-              "RelativeToolTip": "SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Student.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:09:31.249Z",
+              "WhenOpened": "2024-05-22T18:10:34.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "StudentVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\StudentVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\StudentVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\StudentVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\StudentVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:54:22.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGradeService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\IGradeService.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Services\\Interfaces\\IGradeService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\IGradeService.cs",
+              "RelativeToolTip": "SchoolRegister.Services\\Interfaces\\IGradeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:42:16.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddGradeToStudentVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\AddGradeToStudentVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\AddGradeToStudentVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\AddGradeToStudentVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\AddGradeToStudentVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:43:46.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradesReportVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GradesReportVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\GradesReportVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GradesReportVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\GradesReportVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:44:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AddOrUpdateSubjectVm.cs",
               "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\AddOrUpdateSubjectVm.cs",
               "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\AddOrUpdateSubjectVm.cs",
@@ -297,254 +334,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SubjectVm.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
-              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:09:02.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "GroupVm.cs",
               "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GroupVm.cs",
               "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\GroupVm.cs",
               "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GroupVm.cs",
               "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\GroupVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T18:11:45.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StudentVm.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\StudentVm.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\StudentVm.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\StudentVm.cs",
-              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\StudentVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "DocumentIndex": 10,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
+              "RelativeToolTip": "SchoolRegister.Services\\Interfaces\\ITeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:54:22.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ISubjectService.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
-              "RelativeToolTip": "SchoolRegister.Services\\Interfaces\\ISubjectService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:13:02.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Program.cs",
-              "RelativeToolTip": "SchoolRegister.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:37:46.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Student.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Student.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Student.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:34.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Grade.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Grade.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Grade.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Grade.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Grade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:34.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SubjectGroup.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:34.928Z",
+              "WhenOpened": "2024-05-24T19:09:31.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "SchoolRegister.ViewModels.csproj",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
-              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
-              "RelativeToolTip": "SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-22T19:33:41.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Subject.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Subject.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Subject.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Subject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:34.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Role.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Role.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Role.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:28:10.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Parent.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Parent.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Parent.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Parent.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Parent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:34.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Group.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Group.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Group.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Group.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:35.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SchoolRegister.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "RelativeToolTip": "SchoolRegister.Web\\SchoolRegister.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-22T18:05:37.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SchoolRegister.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:44:03.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\appsettings.json",
-              "RelativeToolTip": "SchoolRegister.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-22T19:42:50.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:42:07.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "SchoolRegister.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:35:18.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:34:48.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\ErrorViewModel.cs",
@@ -557,20 +373,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "GradeScale.cs",
-              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\GradeScale.cs",
-              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\GradeScale.cs",
-              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\GradeScale.cs",
-              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\GradeScale.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "DocumentIndex": 17,
+              "Title": "GetGradesReportVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GetGradesReportVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\GetGradesReportVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\GetGradesReportVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\GetGradesReportVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:10:35.32Z",
+              "WhenOpened": "2024-05-26T10:44:56.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\User.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:02:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Parent.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Parent.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Parent.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Parent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:10:34.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "RoleValue.cs",
               "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\RoleValue.cs",
               "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\RoleValue.cs",
@@ -578,7 +419,254 @@
               "RelativeToolTip": "SchoolRegister.Model\\DataModels\\RoleValue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:28:10.262Z",
+              "WhenOpened": "2024-05-22T18:28:10.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Teacher.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Teacher.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:10:34.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Role.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Role.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Role.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:28:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GradeScale.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\GradeScale.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\GradeScale.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\GradeScale.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\GradeScale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:10:35.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Subject.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Subject.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:10:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SubjectGroup.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\SubjectGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:10:34.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Group.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Group.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Group.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:10:35.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolRegister.DAL\\EF\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:53:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeachersGroupsVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\TeachersGroupsVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:13:04.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeacherVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\TeacherVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:10:31.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SubjectVm.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\VM\\SubjectVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:09:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Program.cs",
+              "RelativeToolTip": "SchoolRegister.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:37:46.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SchoolRegister.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+              "RelativeDocumentMoniker": "SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+              "RelativeToolTip": "SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T19:33:41.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SchoolRegister.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
+              "RelativeDocumentMoniker": "SchoolRegister.Web\\SchoolRegister.Web.csproj",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
+              "RelativeToolTip": "SchoolRegister.Web\\SchoolRegister.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T18:05:37.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SchoolRegister.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:44:03.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolRegister.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\appsettings.json",
+              "RelativeToolTip": "SchoolRegister.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T19:42:50.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SchoolRegister.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:42:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SchoolRegister.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SchoolRegister.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:35:18.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SchoolRegister.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:34:48.658Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
+              "RelativeToolTip": "SchoolRegister.Services\\Configuration\\AutoMapperProfiles\\MainProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:51:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolRegister.Model\\DataModels\\Grade.cs",
+              "ToolTip": "C:\\Users\\dsnt\\Developer\\AS_2024\\SchoolRegister\\SchoolRegister.Model\\DataModels\\Grade.cs",
+              "RelativeToolTip": "SchoolRegister.Model\\DataModels\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:10:34.604Z",
               "EditorCaption": ""
             }
           ]

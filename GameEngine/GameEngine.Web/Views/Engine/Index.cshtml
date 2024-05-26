@@ -1,0 +1,28 @@
+﻿@model IEnumerable<EngineVm>
+
+<h1>Engines</h1>
+<a asp-action="AddUpdate"><h3>Add Engine</h3></a>
+<table>
+	<tr>
+		<th>Name</th>
+		<th>CreationDate</th>
+		<th>Games</th>
+		<th>Edit</th>
+		<th>Delete</th>
+	</tr>
+@foreach(var e in Model)
+{
+	<tr>
+		<td>@e.Name</td>
+		<td>@e.CreationDate</td>
+		<td>@foreach(var g in e.Games)
+			{
+				<span>@g.Title,</span>
+			}
+		</td>
+		<td><a asp-action="AddUpdate" asp-route-id="@e.Id">Edit</a></td>
+		<td><a asp-action="Delete" asp-route-id="@e.Id">Delete</a></td>
+	</tr>
+}
+</table>
+

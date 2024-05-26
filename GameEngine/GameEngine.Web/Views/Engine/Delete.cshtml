@@ -1,0 +1,9 @@
+﻿@model EngineVm;
+
+<h1>Czy chcesz usunąć silnik: @Model.Name</h1>
+
+<form asp-action="Delete" method="post">
+	<input name="EngineId" asp-for="Id" hidden />
+	<button type="submit">Usuń</button>
+</form>
+	<a asp-action="Index"><button>Cofnij</button></a>

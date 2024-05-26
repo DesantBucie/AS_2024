@@ -59,7 +59,7 @@ namespace SchoolRegister.Services.ConcreteServices
             }
         }
 
-        public IEnumerable<SubjectVm> GetSubjects(Expression<Func<Subject, bool>> filterExpression = null)
+        public IEnumerable<SubjectVm> GetSubjects(Expression<Func<Subject, bool>> filterExpression = null!)
         {
             try
             {
